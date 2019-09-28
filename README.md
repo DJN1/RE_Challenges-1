@@ -13,7 +13,7 @@ Set-Up:
     Start the virtual machine, Username: root && Password: toor, open a terminal and run the 
     following in the window.
     
-    git clone https://github.com/ifyGecko/RE_Challenges;cd RE_Challenges;chmod +x set-up.sh;./set-up.sh
+    git clone https://github.com/rec-uah/RE_Challenges;cd RE_Challenges;chmod +x set-up.sh;./set-up.sh
     
 Update:
     
