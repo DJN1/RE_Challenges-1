@@ -13,7 +13,7 @@ apt autoremove -y
 r2pm update
 
 #clone new RE_Challenges repo to a temporary directory
-git clone https://github.com/ifyGecko/RE_Challenges tmp
+git clone https://github.com/rec-uah/RE_Challenges tmp
 
 #update all files related to C challenges
 cd ~/RE_Challenges/tmp/Challenges/C
